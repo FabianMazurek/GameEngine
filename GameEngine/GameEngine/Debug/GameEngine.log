@@ -1,0 +1,10 @@
+﻿  Game.cpp
+C:\Users\Games\source\repos\GameEngine\GameEngine\Game.cpp(21,30): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\Games\source\repos\GameEngine\GameEngine\Game.cpp(21,30): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\Games\source\repos\GameEngine\GameEngine\Game.cpp(35,32): warning C4474: 'printf' : too many arguments passed for format string
+  Main.cpp
+C:\Users\Games\source\repos\GameEngine\GameEngine\Game.cpp(35,32): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\Games\source\repos\GameEngine\GameEngine\Main.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+C:\Users\Games\source\repos\GameEngine\GameEngine\Main.cpp(9,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  GameEngine.vcxproj -> C:\Users\Games\source\repos\GameEngine\Debug\GameEngine.exe
