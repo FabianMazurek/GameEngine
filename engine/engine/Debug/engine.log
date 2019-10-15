@@ -1,0 +1,10 @@
+﻿  Bitmap.cpp
+  Game.cpp
+C:\Users\Fabian\source\repos\engine\engine\Bitmap.h(19,16): error C4596: „{ctor}”: niedozwolona kwalifikowana nazwa w deklaracji składowej
+C:\Users\Fabian\source\repos\engine\engine\Game.cpp(21,30): warning C4474: „printf”: przekazano za dużo argumentów dla ciągu formatowania
+C:\Users\Fabian\source\repos\engine\engine\Game.cpp(21,30): message : symbole zastępcze i ich parametry oczekują 0 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 1
+C:\Users\Fabian\source\repos\engine\engine\Game.cpp(35,32): warning C4474: „printf”: przekazano za dużo argumentów dla ciągu formatowania
+  Input.cpp
+  Generowanie kodu...
+C:\Users\Fabian\source\repos\engine\engine\Game.cpp(35,32): message : symbole zastępcze i ich parametry oczekują 0 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 1
+C:\Users\Fabian\source\repos\engine\engine\Input.cpp(63): error C4716: "Input::KeyIsPressed": musi zwracać wartość
